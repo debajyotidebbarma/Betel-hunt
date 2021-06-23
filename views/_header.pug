@@ -1,0 +1,20 @@
+//HEADER
+header.header 
+    nav.nav.nav--tours 
+        a.nav__el(href='/') Betel Hunt
+    .header__logo 
+        img(src='/img/betel-logo.png' alt='Betel Hunt logo')    
+    nav.nav.nav--user 
+        if user
+            a.nav__el(href="/all-data")
+                img.nav__user-img(src=`/img/user.png` alt=`photo of ${user.name}`)
+                span=user.name.split(' ')[0]
+                span=` | ${user.role}`
+            a.nav__el(href="/search") search    
+            a.nav__el(href="/get-notifications") Notification      
+            a.nav__el.nav__el--logout Log out  
+
+        else
+            a.nav__el(href="/search") search
+            a.nav__el(href='/login-page') Log in -BM and Admin Only
+            //- a.nav__el.nav__el--cta(href='/signUp') Sign Up

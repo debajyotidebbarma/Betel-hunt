@@ -1,0 +1,33 @@
+doctype html 
+html 
+    head 
+        block head
+            meta(charset='UTF-8') 
+            meta(name='viewport' content='width=device-width, initial-scale=1.0') 
+            link(rel='stylesheet' href='/css/style.css')
+            link(rel='shortcut icon' type='image/png' href='/img/betel-logo.png')
+            link(rel='stylesheet' href='https://fonts.googleapis.com/css?family=Lato:300,300i,700')
+            title Betel Hunt | #{title}
+            //-interpolation syntax #{tour}
+
+      
+
+    body(data-alert=`${alert?alert:''}`) 
+        //HEADER
+        include _header
+
+        // CONTENT
+        block content
+            .welcome
+                img.welcome-img(src="/img/betel-logo.png")
+                .centered
+                    h1 Welcome to Betel Nut Solutions           
+        
+
+
+        //FOOTER
+        include _footer
+        script(src='/js/bundle.js') 
+        
+       
+                

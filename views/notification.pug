@@ -1,0 +1,19 @@
+extends base
+
+block content   
+    main.main 
+        if data 
+            each noti in data
+                center
+                    if noti.read_by.includes(user._id)
+                        .noti-container.color-green
+                            .message=`${noti.message}`
+                            .created-at=`${noti.created_at}`
+                            a(href=`/get-sender/${noti.sender}/${noti._id}`) see user details
+                    else 
+                        .noti-container.color-red
+                            .message=`${noti.message}`
+                            .created-at=`${noti.created_at}`
+                            a(href=`/get-sender/${noti.sender}/${noti._id}`) see user details
+
+

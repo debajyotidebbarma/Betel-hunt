@@ -1,0 +1,18 @@
+extends base
+
+block content
+    main.main
+        .login-form
+            h2.heading-secondary.ma-bt-lg Fill Up and Search
+            form.form.form--search
+                .form__group
+                    label.form__label(for='name') Name
+                    input#name.form__input(type='text', placeholder='write your name', required)
+                .form__group
+                    label.form__label(for='email') Email address
+                    input#email.form__input(type='email', placeholder='you@example.com', required)
+                .form__group
+                    label.form__label(for='pincode') Pin to Search
+                    input#pincode.form__input(type='number', placeholder='700007', required)
+                .form__group
+                    button.btn.btn--green(type='submit') search

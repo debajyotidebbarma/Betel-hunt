@@ -1,0 +1,12 @@
+extends base 
+
+block content 
+    main.main 
+        each branch in data
+            .data-container
+                div=`Branch Name: ${branch.branchName}` 
+                div=`Address: ${branch.address}`
+                div=`City: ${branch.city}`
+                div=`Branch Incharge: ${branch.BranchIncharge.name}`
+                div=`contact: ${branch.BranchIncharge.contact}`
+                div=`pincodes: ${branch.pincodes}`

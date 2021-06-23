@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Kung fu Pandey",
+    "contact": [9831670869, 24896229],
+    "role": "branch-manager",
+    "branch": "Badlapur",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Kejriwal",
+    "contact": [9830587378],
+    "role": "branch-manager",
+    "branch": "Wasseypur",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Yadav",
+    "contact": [22695777, 9330854205],
+    "role": "branch-manager",
+    "branch": "Sundarnagar",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Charles Goodwin",
+    "contact": [9339149816],
+    "role": "branch-manager",
+    "branch": "Mordor",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Barry Richardds",
+    "contact": [9836675966],
+    "role": "branch-manager",
+    "branch": "Shire",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Anrold Schwartzennegger",
+    "contact": [9330744663, 32612545, 24867225],
+    "role": "branch-manager",
+    "branch": "Osgilliath",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Vinod Kambli",
+    "contact": [22256975, 9331406092],
+    "role": "branch-manager",
+    "branch": "Gondor",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Roast Master",
+    "contact": [22435157, 30281570, 8961369388],
+    "role": "branch-manager",
+    "branch": "Rohan",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Manish Sisodia",
+    "contact": [9051561160, 8981727579],
+    "role": "branch-manager",
+    "branch": "Isengard",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Charu Sharma",
+    "contact": [65537730, 9830456531],
+    "role": "branch-manager",
+    "branch": "Central perk",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Mandira Bedi",
+    "contact": [22823137, 9339970938],
+    "role": "branch-manager",
+    "branch": "Winterfell",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Ram Gopal Verma",
+    "contact": [9339970940, 22103512],
+    "role": "branch-manager",
+    "branch": "Sea of Theseus",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Ravindra Jaedga",
+    "contact": [9339936827],
+    "role": "branch-manager",
+    "branch": "Don's Mansion",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Manoj Kumar",
+    "contact": [9339149821],
+    "role": "branch-manager",
+    "branch": "Hogwardts",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Viru Sahastra Buddhey",
+    "contact": [9339970937],
+    "role": "branch-manager",
+    "branch": "Platform 3/4",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Vijay Dinanath Chauhan",
+    "contact": [9339149810],
+    "role": "branch-manager",
+    "branch": "Dongri",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Sambha",
+    "contact": [30622420, 8420062681],
+    "role": "branch-manager",
+    "branch": "Dubai",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Thakurji",
+    "contact": [9339841477],
+    "role": "branch-manager",
+    "branch": "Karimgunj",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "PK",
+    "contact": [9088126251],
+    "role": "branch-manager",
+    "branch": "Chinchpokli",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Ranchodas Syamaldas Chhanchad",
+    "contact": [9330660677, 30683692],
+    "role": "branch-manager",
+    "branch": "Chiplun",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Amar",
+    "contact": [26774547, 9339411467],
+    "role": "branch-manager",
+    "branch": "Kargil",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Prem",
+    "contact": [9339149802],
+    "role": "branch-manager",
+    "branch": "LOC",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Crime Master Gogo",
+    "contact": [9339970924],
+    "role": "branch-manager",
+    "branch": "LAC",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Teja Hoon Main",
+    "contact": [9339970936],
+    "role": "branch-manager",
+    "branch": "Mandwa",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Anand Akela",
+    "contact": [9339466021],
+    "role": "branch-manager",
+    "branch": "Chennai Xpress",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Raveena Urf Karishna",
+    "contact": [22156404],
+    "role": "branch-manager",
+    "branch": "Mocambo's Cave",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Karishma urf Ravina",
+    "contact": [9339970934],
+    "role": "branch-manager",
+    "branch": "Gabbar's Plateau",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Robert",
+    "contact": [22192333, 9331086356],
+    "role": "branch-manager",
+    "branch": "Kasaul",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Bhalla",
+    "contact": [22352320, 9830219907],
+    "role": "branch-manager",
+    "branch": "Manaal",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Pappu Gandhi",
+    "contact": [9339149811],
+    "role": "branch-manager",
+    "branch": "Sergeant at Arms",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Kim Chee Salad",
+    "contact": [9339970931],
+    "role": "branch-manager",
+    "branch": "Krispy Chilly",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Jai Singh",
+    "contact": [9339930423],
+    "role": "branch-manager",
+    "branch": "Dove 3/4th Mois",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Basanti",
+    "contact": [9339149818],
+    "role": "branch-manager",
+    "branch": "Mclaren's",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Garbage Bin",
+    "contact": [9339791567],
+    "role": "branch-manager",
+    "branch": "Capitol Building",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Shedlon Cooper",
+    "contact": [32590307],
+    "role": "branch-manager",
+    "branch": "West Wing",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Rowdy Rathore",
+    "contact": [9339970939],
+    "role": "branch-manager",
+    "branch": "Freddy's place",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Rahul",
+    "contact": [22597892],
+    "role": "branch-manager",
+    "branch": "The Cheesecake Factory",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Teja",
+    "contact": [9339149803],
+    "role": "branch-manager",
+    "branch": "Sheldon's Time Machine",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Deepak Chourasia",
+    "contact": [22192458, 7439412862],
+    "role": "branch-manager",
+    "branch": "Penny's apartment",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "AIB",
+    "contact": [26753836, 933914981],
+    "role": "branch-manager",
+    "branch": "Starbucks",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Yo Yo honey Singh",
+    "contact": [9331010493],
+    "role": "branch-manager",
+    "branch": "The Brown Stone",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Piku",
+    "contact": [25302241, 9339970941],
+    "role": "branch-manager",
+    "branch": "Christie's Den",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Ross Geller",
+    "contact": [9330001853],
+    "role": "branch-manager",
+    "branch": "Summersault",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Chanandler bong",
+    "contact": [9830165441, 22426744],
+    "role": "branch-manager",
+    "branch": "Kkkkkkiran's Nest",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Ugly Naked Guy",
+    "contact": [9330648535, 9339246760],
+    "role": "branch-manager",
+    "branch": "Las Vegas Boulevard",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Red",
+    "contact": [9332984588],
+    "role": "branch-manager",
+    "branch": "Wynn Palace",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Monica Obsessive Geller",
+    "contact": [9330172083],
+    "role": "branch-manager",
+    "branch": "Brooklyn Bridge",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  },
+  {
+    "name": "Phoebe Hyper Buffay",
+    "contact": [30622420, 8420062681],
+    "role": "branch-manager",
+    "branch": "Times Square",
+    "password": "$2a$10$BW7FZZtsgTsY85A9AbJY.eAEOi86oOwqC2OhhXPVL9zWWevTIL9Wq"
+  }
+]
